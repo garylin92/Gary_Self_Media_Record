@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xX3iVk5vo3Wmq1a8zOut">
-    <mxGraphModel dx="1163" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="336" dy="3382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,46 +38,70 @@
           <mxGeometry x="1800" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-13" value="乾净代碼十分重要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-14" value="標准的格式化十分關鍵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-15" value="Python使代碼自我記錄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-16" value="工具配置確定代碼佈局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="-860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-17" value="乾净代碼含義" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="823" y="-760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="-1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-18" value="專業人士來決定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-19" value="編程語言 -&amp;gt; 開發人員思想 -&amp;gt; 機器&lt;br&gt;編程語言-&amp;gt; 開發人員思想&amp;nbsp;-&amp;gt; 開發人員" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-20" value="乾净代碼重要性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="823" y="-610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-21" value="技術債務" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-22" value="技術債務" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-23" value="代碼格式的作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1534" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1361" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-24" value="代碼可維護性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-25" value="軟件質量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lcj2cCBF_qRDiagrLODD-26" value="高效工作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-27" value="編碼風格指南" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-28" value="代碼一致結構化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-29" value="編碼風格PEP-8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-30" value="可搜索性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-31" value="一致性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-32" value="代碼質量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-34" value="文檔字符串和注釋" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lcj2cCBF_qRDiagrLODD-35" value="文檔字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
