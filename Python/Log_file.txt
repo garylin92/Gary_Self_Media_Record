@@ -2,4 +2,5 @@
 開始記錄 | start recording
 2026.1.5
 準備roadmap，站在巨人的肩膀準備學習路綫，學完最後再整理出自己的roadmap
+2026.1.8
 
